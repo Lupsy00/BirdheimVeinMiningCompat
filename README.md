@@ -40,3 +40,8 @@ Instead of modifying either mod's assembly files, this plugin runs once during B
 ## Credits
 * **[Birdheim](https://thunderstore.io/c/valheim/p/HansenbansenTeam/Birdheim/)** by **hansenbansen** — for the original bird companion & flight mod.
 * **[VeinMining](https://thunderstore.io/c/valheim/p/BranchOfYore/VeinMining/)** by **BranchOfYore** — for the original multiplayer vein-mining mod.
+
+---
+
+## Contact & Bug Reports
+* **GitHub Issues:** [Report a bug or suggest a change](https://github.com/Lupsy00/BirdheimVeinMiningCompat)
